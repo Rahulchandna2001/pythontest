@@ -1,7 +1,7 @@
 # Basic data types
-integer_example = 10
-float_example = 10.5
-string_example = "Database Automation"
+integer_example = 11
+float_example = 12.5
+string_example = " Automation"
 boolean_example = True
 
 # Printing the types of variables
